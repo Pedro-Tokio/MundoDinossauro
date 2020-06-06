@@ -1,0 +1,77 @@
+#drawer{
+    font-size: 1em;
+    color: black;
+    margin: 0;
+}
+
+#Top_Menu{
+    text-align: center;
+    background: linear-gradient(to right, green, black);
+}
+
+#Top_Image{
+    padding:5px;
+}
+
+#Top_Menu h1{
+    font-size: 3em;
+}
+
+#Top_Nav{
+    background-color: #228B22;
+}
+
+#Top_Links{
+    margin-left: auto;
+    text-align: center;
+}
+
+#Top_Nav a{
+    text-decoration: none;
+    font-size: 2em;
+    padding-left: 1em;
+}
+
+#Top_Nav a:Hover{
+    color: #DC143C;
+}
+
+#wiki_Tiranossauro a:Hover{
+    color: red;
+}
+
+#wiki_Velociraptor a:Hover{
+    color: red;
+}        
+
+#wiki_Triceratops a:hover{
+    color: red;
+}
+
+#wiki_Liopleurodonte a:hover{
+    color: red;
+}
+
+#wiki_Alossauro a:hover{
+    color: red;
+}
+
+#wiki_Purussauro a:hover{
+    color: red;
+}
+
+#wiki_Pteranodonte a:hover{
+    color: red;
+}
+
+#Content_Images{
+    margin-top: 200px;
+    border-width: 1em;
+}
+.Content_Image{
+    width: 400px;
+    border: 10px solid black;
+}
+.Left_Content_Table_Image{
+    margin-left:0%;
+}
